@@ -24,7 +24,7 @@ function App() {
   if (submitted) {
     return (
       <div className="flex flex-col items-center justify-center min-h-screen bg-[#013b72] text-white p-10">
-        <img src='/src/assets/logo_no_background.svg' className="h-40 w-auto"></img>
+        <img src='https://hhbrokers.es/wp-content/uploads/2025/03/Color-logo-no-background.svg' alt="Logo" className="h-40 w-auto"></img>
         <br></br>
         <br></br>
         <h2 className="text-4xl mb-4">¡Gracias por contactarnos!</h2>
@@ -43,7 +43,7 @@ function App() {
     <div className="flex flex-col min-h-screen bg-gray-50">
       {/* Hero Section */}
       <header className="flex flex-col items-center justify-center text-center bg-[#013b72] text-white py-20 px-4">
-        <img src='/src/assets/logo_no_background.svg' className="h-40 w-auto"></img>
+        <img src='https://hhbrokers.es/wp-content/uploads/2025/03/Color-logo-no-background.svg' className="h-40 w-auto"></img>
         <h1 className="text-5xl font-bold mb-4">¡Cada día que no tomas acción, tu dinero pierde valor!</h1>
         <p className="text-4xl font-bold max-w-xl">Recibe tu primera consulta gratuita HOY</p>
         
