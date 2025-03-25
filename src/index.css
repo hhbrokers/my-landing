@@ -54,6 +54,15 @@ button:focus-visible {
   outline: 4px auto -webkit-focus-ring-color;
 }
 
+.button-thank-you {
+  background-color: #C8B568;
+  font-size: 2em;
+}
+
+.button-thank-you:hover {
+  background-color: #DFBE6F;
+}
+
 @media (prefers-color-scheme: light) {
   :root {
     color: #213547;
@@ -63,7 +72,7 @@ button:focus-visible {
     color: #747bff;
   }
   button {
-    background-color: #f9f9f9;
+    background-color: #013b72;
   }
 }
 
